@@ -1,0 +1,11 @@
+.delete_setting { cursor: pointer; color: #fff!important; }
+.alert.alert-success p, .alert.alert-danger p {  margin: 0px; }
+.help-block, label.error { color:#ea1143; font-size:13px; }
+.add_more, .remove_slider { cursor: pointer;  }
+.slider { float: left; width: 49%; margin-right: 6px; }    
+.product_slider { float: left; width: 100% }
+.remove_slider { position: absolute;margin-left: 40%;  }
+.field-icon { float: right; margin-left: -25px; margin-top: -25px; position: relative; z-index: 2; }    
+#repair_sheet_list { float: left; width: 100%; }
+.sheets {float: left; width: calc(100%/2); padding: 0 15px 0 0;}
+    
